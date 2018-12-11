@@ -1,0 +1,15 @@
+{
+  "name": "jest-demo-20181211",
+  "version": "1.0.0",
+  "description": "Demo how to use jest to write unit test. Problem is roman number subtract.",
+  "main": "roman.js",
+  "repository": "git@github.com:taichunmin/jest-demo-20181211.git",
+  "author": "taichunmin <taichunmin@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
